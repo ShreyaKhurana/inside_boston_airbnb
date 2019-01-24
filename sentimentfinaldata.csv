@@ -1,0 +1,101 @@
+"","neighbourhood_cleansed","sentiment","total_words","words","prop"
+"1","Allston","anger",15045,60,0.4
+"2","Allston","anticipation",15045,771,5.1
+"3","Allston","disgust",15045,30,0.2
+"4","Allston","fear",15045,51,0.3
+"5","Allston","joy",15045,761,5.1
+"6","Allston","negative",15045,169,1.1
+"7","Allston","positive",15045,1834,12.2
+"8","Allston","sadness",15045,184,1.2
+"9","Allston","surprise",15045,211,1.4
+"10","Allston","trust",15045,835,5.6
+"11","Back Bay","anger",20773,120,0.6
+"12","Back Bay","anticipation",20773,946,4.6
+"13","Back Bay","disgust",20773,56,0.3
+"14","Back Bay","fear",20773,89,0.4
+"15","Back Bay","joy",20773,1057,5.1
+"16","Back Bay","negative",20773,209,1
+"17","Back Bay","positive",20773,2844,13.7
+"18","Back Bay","sadness",20773,215,1
+"19","Back Bay","surprise",20773,430,2.1
+"20","Back Bay","trust",20773,1190,5.7
+"21","Beacon Hill","anger",13535,68,0.5
+"22","Beacon Hill","anticipation",13535,535,4
+"23","Beacon Hill","disgust",13535,40,0.3
+"24","Beacon Hill","fear",13535,87,0.6
+"25","Beacon Hill","joy",13535,557,4.1
+"26","Beacon Hill","negative",13535,154,1.1
+"27","Beacon Hill","positive",13535,1467,10.8
+"28","Beacon Hill","sadness",13535,165,1.2
+"29","Beacon Hill","surprise",13535,231,1.7
+"30","Beacon Hill","trust",13535,528,3.9
+"31","Brighton","anger",11148,51,0.5
+"32","Brighton","anticipation",11148,595,5.3
+"33","Brighton","disgust",11148,18,0.2
+"34","Brighton","fear",11148,79,0.7
+"35","Brighton","joy",11148,572,5.1
+"36","Brighton","negative",11148,158,1.4
+"37","Brighton","positive",11148,1373,12.3
+"38","Brighton","sadness",11148,152,1.4
+"39","Brighton","surprise",11148,163,1.5
+"40","Brighton","trust",11148,592,5.3
+"41","Dorchester","anger",16930,96,0.6
+"42","Dorchester","anticipation",16930,760,4.5
+"43","Dorchester","disgust",16930,46,0.3
+"44","Dorchester","fear",16930,125,0.7
+"45","Dorchester","joy",16930,800,4.7
+"46","Dorchester","negative",16930,220,1.3
+"47","Dorchester","positive",16930,1844,10.9
+"48","Dorchester","sadness",16930,207,1.2
+"49","Dorchester","surprise",16930,236,1.4
+"50","Dorchester","trust",16930,870,5.1
+"51","Downtown","anger",11233,69,0.6
+"52","Downtown","anticipation",11233,514,4.6
+"53","Downtown","disgust",11233,21,0.2
+"54","Downtown","fear",11233,90,0.8
+"55","Downtown","joy",11233,560,5
+"56","Downtown","negative",11233,187,1.7
+"57","Downtown","positive",11233,1411,12.6
+"58","Downtown","sadness",11233,101,0.9
+"59","Downtown","surprise",11233,224,2
+"60","Downtown","trust",11233,528,4.7
+"61","Fenway","anger",16644,124,0.7
+"62","Fenway","anticipation",16644,851,5.1
+"63","Fenway","disgust",16644,39,0.2
+"64","Fenway","fear",16644,217,1.3
+"65","Fenway","joy",16644,1006,6
+"66","Fenway","negative",16644,281,1.7
+"67","Fenway","positive",16644,2543,15.3
+"68","Fenway","sadness",16644,239,1.4
+"69","Fenway","surprise",16644,393,2.4
+"70","Fenway","trust",16644,1007,6.1
+"71","Jamaica Plain","anger",24411,117,0.5
+"72","Jamaica Plain","anticipation",24411,1283,5.3
+"73","Jamaica Plain","disgust",24411,69,0.3
+"74","Jamaica Plain","fear",24411,168,0.7
+"75","Jamaica Plain","joy",24411,1359,5.6
+"76","Jamaica Plain","negative",24411,271,1.1
+"77","Jamaica Plain","positive",24411,3235,13.3
+"78","Jamaica Plain","sadness",24411,349,1.4
+"79","Jamaica Plain","surprise",24411,428,1.8
+"80","Jamaica Plain","trust",24411,1228,5
+"81","South Boston","anger",11661,72,0.6
+"82","South Boston","anticipation",11661,468,4
+"83","South Boston","disgust",11661,35,0.3
+"84","South Boston","fear",11661,42,0.4
+"85","South Boston","joy",11661,458,3.9
+"86","South Boston","negative",11661,129,1.1
+"87","South Boston","positive",11661,1277,11
+"88","South Boston","sadness",11661,117,1
+"89","South Boston","surprise",11661,152,1.3
+"90","South Boston","trust",11661,476,4.1
+"91","South End","anger",22509,182,0.8
+"92","South End","anticipation",22509,1089,4.8
+"93","South End","disgust",22509,73,0.3
+"94","South End","fear",22509,102,0.5
+"95","South End","joy",22509,939,4.2
+"96","South End","negative",22509,311,1.4
+"97","South End","positive",22509,2811,12.5
+"98","South End","sadness",22509,245,1.1
+"99","South End","surprise",22509,454,2
+"100","South End","trust",22509,1052,4.7
